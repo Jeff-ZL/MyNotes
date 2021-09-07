@@ -1,2 +1,4 @@
-# MyNotes
-Course notes.
+# 课程笔记
+*Author: ZhaoLulu@BJTU*
+*Date: 2021.9.6-*
+存放大三上学期各科目的课堂笔记，放在这里一方面便于分享，另一方面利于督促自己学习。
